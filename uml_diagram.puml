@@ -63,22 +63,22 @@ class moves.Facade {
 }
 
 
-moves.PhysicalMove <|-- moves.RockSlide
-pockemons.Pokemon <|-- pockemons.Pichu
-moves.StatusMove <|-- moves.Rest
+ru.ifmo.se.pokemon.PhysicalMove <|-- moves.RockSlide
+ru.ifmo.se.pokemon.Pokemon <|-- pockemons.Pichu
+ru.ifmo.se.pokemon.StatusMove <|-- moves.Rest
 pockemons.Pikachu <|-- pockemons.Raichu
-moves.SpecialMove <|-- moves.PowderSnow
-moves.StatusMove <|-- moves.Agility
+ru.ifmo.se.pokemon.SpecialMove <|-- moves.PowderSnow
+ru.ifmo.se.pokemon.StatusMove <|-- moves.Agility
 pockemons.Pichu <|-- pockemons.Pikachu
-moves.PhysicalMove <|-- moves.FireFang
-moves.SpecialMove <|-- moves.ChargeBeam
+ru.ifmo.se.pokemon.PhysicalMove <|-- moves.FireFang
+ru.ifmo.se.pokemon.SpecialMove <|-- moves.ChargeBeam
 ru.ifmo.se.pokemon.Pokemon <|-- pockemons.Entei
-moves.StatusMove <|-- moves.ThunderWave
-pockemons.Pokemon <|-- pockemons.Amaura
-moves.PhysicalMove <|-- moves.StoneEdge
+ru.ifmo.se.pokemon.StatusMove <|-- moves.ThunderWave
+ru.ifmo.se.pokemon.Pokemon <|-- pockemons.Amaura
+ru.ifmo.se.pokemon.PhysicalMove <|-- moves.StoneEdge
 pockemons.Amaura <|-- pockemons.Aurorus
-moves.PhysicalMove <|-- moves.SacredFire
-moves.PhysicalMove <|-- moves.Stomp
-moves.SpecialMove <|-- moves.Psychic
-moves.PhysicalMove <|-- moves.Facade
+ru.ifmo.se.pokemon.PhysicalMove <|-- moves.SacredFire
+ru.ifmo.se.pokemon.PhysicalMove <|-- moves.Stomp
+ru.ifmo.se.pokemon.SpecialMove <|-- moves.Psychic
+ru.ifmo.se.pokemon.PhysicalMove <|-- moves.Facade
 @enduml
