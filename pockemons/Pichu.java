@@ -1,7 +1,9 @@
 package pockemons;
 
-import moves.*;
-import ru.ifmo.se.pokemon.*;
+import moves.ChargeBeam;
+import moves.Facade;
+import ru.ifmo.se.pokemon.Pokemon;
+import ru.ifmo.se.pokemon.Type;
 
 public class Pichu extends Pokemon {
 

@@ -1,6 +1,7 @@
 package moves;
 
-import ru.ifmo.se.pokemon.*;
+import ru.ifmo.se.pokemon.StatusMove;
+import ru.ifmo.se.pokemon.Type;
 
 public class ThunderWave extends StatusMove {
 

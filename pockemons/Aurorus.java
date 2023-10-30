@@ -1,7 +1,6 @@
 package pockemons;
 
-import moves.*;
-import ru.ifmo.se.pokemon.Type;
+import moves.Psychic;
 
 public class Aurorus extends Amaura {
 

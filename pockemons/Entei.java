@@ -1,6 +1,9 @@
 package pockemons;
 
-import moves.*;
+import moves.FireFang;
+import moves.SacredFire;
+import moves.Stomp;
+import moves.StoneEdge;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

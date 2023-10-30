@@ -1,5 +1,6 @@
 import pockemons.*;
-import ru.ifmo.se.pokemon.*;
+import ru.ifmo.se.pokemon.Battle;
+import ru.ifmo.se.pokemon.Pokemon;
 
 
 public class Main {

@@ -1,6 +1,10 @@
 package moves;
 
-import ru.ifmo.se.pokemon.*;
+import ru.ifmo.se.pokemon.StatusMove;
+import ru.ifmo.se.pokemon.Pokemon;
+import ru.ifmo.se.pokemon.Type;
+import ru.ifmo.se.pokemon.Effect;
+import ru.ifmo.se.pokemon.Status;
 
 public class Rest extends StatusMove {
 

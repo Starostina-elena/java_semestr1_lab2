@@ -1,6 +1,6 @@
 package pockemons;
 
-import moves.*;
+import moves.Rest;
 
 public class Raichu extends Pikachu{
 

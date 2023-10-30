@@ -1,6 +1,6 @@
 package pockemons;
 
-import moves.*;
+import moves.Agility;
 
 public class Pikachu extends Pichu {
 

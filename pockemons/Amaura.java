@@ -1,7 +1,10 @@
 package pockemons;
 
-import moves.*;
-import ru.ifmo.se.pokemon.*;
+import moves.PowderSnow;
+import moves.RockSlide;
+import moves.ThunderWave;
+import ru.ifmo.se.pokemon.Pokemon;
+import ru.ifmo.se.pokemon.Type;
 
 public class Amaura extends Pokemon{
 
